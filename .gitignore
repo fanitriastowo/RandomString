@@ -1,6 +1,11 @@
+
+# default netbeans gitignore
 **/nbproject/private/
 build/
 nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+# Maven default gitignore
+target/
